@@ -51,7 +51,11 @@ Figure -02 HALF Subtractor
 **Program:**
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming
-Developed by:KISHORE V RegisterNumber:212224240077*/
+
+```
+Developed by:KISHORE V 
+RegisterNumber:212224240077*/
+```
 ```
 module half_add(a,b,sum,carry,D,Bo);
 input a,b;
